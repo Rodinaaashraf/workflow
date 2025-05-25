@@ -1,4 +1,4 @@
-from etl.transform import transform
+from transform import transform
 
 def test_transform():
     sample_data = [
